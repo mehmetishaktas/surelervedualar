@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("surelervedualar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d1205826b1cadce3b428997f2f2a62fd2e6b8eea")]
 [assembly: System.Reflection.AssemblyProductAttribute("surelervedualar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("surelervedualar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

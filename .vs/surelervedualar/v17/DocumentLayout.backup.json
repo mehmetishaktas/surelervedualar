@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\gsozleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\gsozleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,9 @@
               "RelativeDocumentMoniker": "surelervedualar\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\MainPage.xaml.cs",
               "RelativeToolTip": "surelervedualar\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T21:07:54.198Z",
+              "WhenOpened": "2024-11-25T20:22:22.084Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +45,22 @@
               "RelativeDocumentMoniker": "surelervedualar\\MainPage.xaml",
               "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\MainPage.xaml",
               "RelativeToolTip": "surelervedualar\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-23T21:03:46.784Z",
+              "WhenOpened": "2024-11-25T20:17:14.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gsozleri.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\gsozleri.cs",
+              "RelativeDocumentMoniker": "surelervedualar\\gsozleri.cs",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\gsozleri.cs",
+              "RelativeToolTip": "surelervedualar\\gsozleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:10:47.074Z",
               "EditorCaption": ""
             }
           ]
