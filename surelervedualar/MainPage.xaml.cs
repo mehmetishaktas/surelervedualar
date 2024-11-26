@@ -1,4 +1,5 @@
-﻿namespace surelervedualar
+﻿
+namespace surelervedualar
 {
     public partial class MainPage : ContentPage
     {
@@ -17,7 +18,7 @@
         }
         private void dualar(object sender,EventArgs e)
         {
-            Navigation.PushAsync(new dualar());
+            Navigation.PushAsync(new NewPage1());
         }
         private void hadisler(object sender,EventArgs e)
         {

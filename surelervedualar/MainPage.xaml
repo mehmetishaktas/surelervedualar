@@ -2,28 +2,18 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              x:Class="surelervedualar.MainPage"
-             BackgroundColor="SlateGrey">
+             BackgroundColor="#f8efbf">
 
     <StackLayout>
-        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" Padding="15" BackgroundColor="red">
-            <Button Text="SURELER" Clicked="sureler" Margin="5" />
-            <Button Text="DUALAR" Clicked="dualar" Margin="5"/>
-            <Button Text="HADİSLER" Clicked="hadisler" Margin="5"/>
-            <Button Text="ZİKİR" Clicked="zikir" Margin="5"/>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" Padding="15" >
+            <Button Text="SURELER" Clicked="sureler" Margin="5"  Background="#dbe16e" TextColor="#002934"/>
+            <Button Text="DUALAR" Clicked="dualar" Margin="5" Background="#dbe16e" TextColor="#002934"/>
+            <Button Text="HADİSLER" Clicked="hadisler" Margin="5" Background="#dbe16e" TextColor="#002934"/>
+            <Button Text="ZİKİR" Clicked="zikir" Margin="5" Background="#dbe16e" TextColor="#002934" />
         </StackLayout>
-        <Label Text="GÜNÜN SÖZÜ"  FontSize="40" FontFamily="Segoe" Margin="70,0,0,0"/>
-        <StackLayout BackgroundColor="Aqua" VerticalOptions="Center">
+        <StackLayout  VerticalOptions="Center" BackgroundColor="#f8efed">
+            <Label Text="GÜNÜN SÖZÜ"  FontSize="40" FontFamily="Segoe" Margin="70,0,0,0"/>
             <Label x:Name="txtdinisoz"  Text="{Binding id}" FontSize="Large" FontAttributes="Bold"/>
-        </StackLayout>
-        <StackLayout >
-            <Label Text="NAMAZ SAATLERİ" Margin="150,0,0,0"  FontFamily="Bold"/>
-            <StackLayout Orientation="Horizontal">
-                <Label Text="Sabah Namazı"  />
-                <Label Text="Öğle Namazı" />
-                <Label Text="İkindi Namazı"  />
-                <Label Text="Akşam Namazı" />
-                <Label Text="Yatsı Namazı"  />
-            </StackLayout>
         </StackLayout>
     </StackLayout>
 </ContentPage>
