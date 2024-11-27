@@ -4,49 +4,9 @@
              x:Class="surelervedualar.NewPage1"
              Title="NewPage1">
     <VerticalStackLayout>
-        <ScrollView>
-            <StackLayout Margin="10">
-                <!-- ListView içerisinde her dua için veri gösterilecek -->
-                <ListView x:Name="listeleme" 
-                      HasUnevenRows="True"
-                      ItemsSource="{Binding Dualar}">
-                    <!-- Binding ile Dualar koleksiyonuna bağlanacak -->
-
-                    <ListView.ItemTemplate>
-                        <DataTemplate>
-                            <ViewCell>
-                                <StackLayout Padding="10">
-                                    <Grid>
-                                        <Grid.ColumnDefinitions>
-                                            <ColumnDefinition Width="*"></ColumnDefinition>
-                                            <ColumnDefinition Width="30"></ColumnDefinition>
-                                        </Grid.ColumnDefinitions>
-                                        <Grid.RowDefinitions>
-                                            <RowDefinition Height="Auto"></RowDefinition>
-                                            <RowDefinition Height="Auto"></RowDefinition>
-                                        </Grid.RowDefinitions>
-
-                                        <!-- Dua'nın Id'si ve metni gösteriliyor -->
-                                        <Label Text="{Binding Id}" 
-                                           FontSize="Large" 
-                                           FontAttributes="Bold" 
-                                           Grid.Column="0" 
-                                           Grid.Row="0" 
-                                           TextColor="Red"/>
-                                        <Label Text="{Binding DuaMetni}" 
-                                           FontSize="Large" 
-                                           FontAttributes="Bold" 
-                                           Grid.Column="0" 
-                                           Grid.Row="1" 
-                                           LineBreakMode="WordWrap" />
-                                        <!-- Metni düzgün göstermek için wrap -->
-                                    </Grid>
-                                </StackLayout>
-                            </ViewCell>
-                        </DataTemplate>
-                    </ListView.ItemTemplate>
-                </ListView>
-            </StackLayout>
-        </ScrollView>
+        
+        <StackLayout x:Name="stackLayout" Padding="10">
+            <Label Text="Dualar" FontSize="20" HorizontalOptions="Center" />
+        </StackLayout>
     </VerticalStackLayout>
 </ContentPage>

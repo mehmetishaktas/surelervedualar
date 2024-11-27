@@ -5,7 +5,7 @@
              BackgroundColor="#f8efbf">
 
     <StackLayout>
-        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" Padding="15" >
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Center" Padding="1,2,0,0" >
             <Button Text="SURELER" Clicked="sureler" Margin="5"  Background="#dbe16e" TextColor="#002934"/>
             <Button Text="DUALAR" Clicked="dualar" Margin="5" Background="#dbe16e" TextColor="#002934"/>
             <Button Text="HADİSLER" Clicked="hadisler" Margin="5" Background="#dbe16e" TextColor="#002934"/>
@@ -13,7 +13,7 @@
         </StackLayout>
         <StackLayout  VerticalOptions="Center" BackgroundColor="#f8efed">
             <Label Text="GÜNÜN SÖZÜ"  FontSize="40" FontFamily="Segoe" Margin="70,0,0,0"/>
-            <Label x:Name="txtdinisoz"  Text="{Binding id}" FontSize="Large" FontAttributes="Bold"/>
+            <Label x:Name="txtdinisoz"  Text="{Binding id}" FontSize="Large" FontAttributes="Bold" Margin="0,10,0,0"  TextTransform="Uppercase"/>
         </StackLayout>
     </StackLayout>
 </ContentPage>

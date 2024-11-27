@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>surelervedualar</id>
+    <version>1.0.0</version>
+    <authors>surelervedualar</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f5f1ef992a0f06d6942f29b0693d6e1ba4a283b3" />
+    <dependencies>
+      <group targetFramework="net8.0-android34.0">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.83" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.83" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-ios18.0">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.83" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.83" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-maccatalyst18.0">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.83" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.83" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0-windows10.0.19041">
+        <dependency id="Microsoft.Extensions.Logging.Debug" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls" version="8.0.83" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Controls.Compatibility" version="8.0.83" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-android\surelervedualar.runtimeconfig.json" target="lib\net8.0-android34.0\surelervedualar.runtimeconfig.json" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-android\surelervedualar.dll" target="lib\net8.0-android34.0\surelervedualar.dll" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-android\surelervedualar.xml" target="lib\net8.0-android34.0\surelervedualar.xml" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-ios\iossimulator-x64\surelervedualar.runtimeconfig.json" target="lib\net8.0-ios18.0\surelervedualar.runtimeconfig.json" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-ios\iossimulator-x64\surelervedualar.dll" target="lib\net8.0-ios18.0\surelervedualar.dll" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\surelervedualar.runtimeconfig.json" target="lib\net8.0-maccatalyst18.0\surelervedualar.runtimeconfig.json" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\surelervedualar.dll" target="lib\net8.0-maccatalyst18.0\surelervedualar.dll" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\surelervedualar.runtimeconfig.json" target="lib\net8.0-windows10.0.19041\surelervedualar.runtimeconfig.json" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\surelervedualar.dll" target="lib\net8.0-windows10.0.19041\surelervedualar.dll" />
+    <file src="C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri" target="lib\net8.0-windows10.0.19041\resources.pri" />
+  </files>
+</package>

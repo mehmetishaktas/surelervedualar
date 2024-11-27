@@ -312,3 +312,6 @@ C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\obj\Debug\net
 C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\obj\Debug\net8.0-ios\iossimulator-x64\surelervedualar.pdb
 C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\obj\Debug\net8.0-ios\iossimulator-x64\surelervedualar.genruntimeconfig.cache
 C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\obj\Debug\net8.0-ios\iossimulator-x64\ref\surelervedualar.dll
+C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\mehmet ishak\source\repos\surelervedualar\surelervedualar\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
