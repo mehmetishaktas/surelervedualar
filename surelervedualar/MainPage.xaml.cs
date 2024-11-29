@@ -22,11 +22,11 @@ namespace surelervedualar
         }
         private void hadisler(object sender,EventArgs e)
         {
-
+          
         }
         private void sureler(object sender,EventArgs e)
         {
-
+            Navigation.PushAsync(new NewPage2());
         }
         private void zikir(object senrde, EventArgs e)
         {

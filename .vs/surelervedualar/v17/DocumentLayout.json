@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\newpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\newpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\d\u00FCalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\d\u00FCalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|c:\\users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F26A3D19-F6A8-4394-950D-2D42436F6268}|surelervedualar\\surelervedualar.csproj|solutionrelative:surelervedualar\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewPage1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage1.xaml.cs",
-              "RelativeDocumentMoniker": "surelervedualar\\NewPage1.xaml.cs",
-              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage1.xaml.cs",
-              "RelativeToolTip": "surelervedualar\\NewPage1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "d\u00FCalar.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\d\u00FCalar.cs",
+              "RelativeDocumentMoniker": "surelervedualar\\d\u00FCalar.cs",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\d\u00FCalar.cs",
+              "RelativeToolTip": "surelervedualar\\d\u00FCalar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:58:56.828Z",
+              "WhenOpened": "2024-11-29T21:00:14.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPage2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage2.xaml.cs",
+              "RelativeDocumentMoniker": "surelervedualar\\NewPage2.xaml.cs",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage2.xaml.cs",
+              "RelativeToolTip": "surelervedualar\\NewPage2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:16:01.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewPage2.xaml",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage2.xaml",
+              "RelativeDocumentMoniker": "surelervedualar\\NewPage2.xaml",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage2.xaml",
+              "RelativeToolTip": "surelervedualar\\NewPage2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T20:59:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NewPage1.xaml",
               "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage1.xaml",
               "RelativeDocumentMoniker": "surelervedualar\\NewPage1.xaml",
               "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage1.xaml",
               "RelativeToolTip": "surelervedualar\\NewPage1.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-27T17:58:34.587Z",
+              "WhenOpened": "2024-11-29T21:04:00.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "surelervedualar\\NewPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\surelervedualar\\surelervedualar\\NewPage1.xaml.cs",
+              "RelativeToolTip": "surelervedualar\\NewPage1.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:59:23.511Z",
               "EditorCaption": ""
             }
           ]

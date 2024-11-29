@@ -80,9 +80,10 @@ namespace surelervedualar
                         Button duaButton = new Button
                         {
                             Text = dua.Adi,
-                            FontSize=20,
-                            HorizontalOptions = LayoutOptions.Center
-                            
+                            FontSize = 20,
+                            HorizontalOptions = LayoutOptions.Fill,
+                            Margin = 20
+
                         };
 
                         // Butona týklama olayý ekleme

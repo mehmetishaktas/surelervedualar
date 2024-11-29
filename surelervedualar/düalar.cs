@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace surelervedualar
 {
     internal class düalar
@@ -19,5 +20,7 @@ namespace surelervedualar
                 Icerik = icerik;
             }
         }
+        
+
     }
 }
