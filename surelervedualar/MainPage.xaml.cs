@@ -7,30 +7,25 @@ namespace surelervedualar
         public MainPage()
         {
             InitializeComponent();
-            gunluksozler=new GunlukDiniSozler();
+            gunluksozler = new GunlukDiniSozler();
             string soz = gunluksozler.BugunDiniSoz();
             txtdinisoz.Text = soz;
         }
-
-        private void OnCounterClicked(object sender, EventArgs e)
-        {
-            
-        }
-        private void dualar(object sender,EventArgs e)
+        private void dualar(object sender, EventArgs e)
         {
             Navigation.PushAsync(new NewPage1());
         }
-        private void hadisler(object sender,EventArgs e)
+        private void hadisler(object sender, EventArgs e)
         {
-          
+            Navigation.PushAsync(new NewPage3());
         }
-        private void sureler(object sender,EventArgs e)
+        private void sureler(object sender, EventArgs e)
         {
             Navigation.PushAsync(new NewPage2());
         }
         private void zikir(object senrde, EventArgs e)
         {
-
+            Navigation.PushAsync(new NewPage4());
         }
     }
 

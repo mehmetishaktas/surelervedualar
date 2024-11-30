@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="surelervedualar.NewPage4" 
+             Title="ZİKİR" BackgroundColor="SlateGrey">
+    <VerticalStackLayout  VerticalOptions="Center">
+
+
+        <Button Clicked="artır" Text="BANA TIKLA"  x:Name="zikir" FontSize="50"  BorderWidth="10" CornerRadius="130" Padding="0" BackgroundColor="RoyalBlue" WidthRequest="300" HeightRequest="300"/>
+    </VerticalStackLayout>
+</ContentPage>

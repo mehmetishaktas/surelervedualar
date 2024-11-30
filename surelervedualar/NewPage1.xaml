@@ -3,10 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="surelervedualar.NewPage1"
              Title="NewPage1">
-   
-        <ScrollView>
-            
-        
+
+    <ScrollView>
         <StackLayout x:Name="stackLayout" Padding="10">
             <Label Text="Dualar" FontSize="20" HorizontalOptions="Center" />
         </StackLayout>

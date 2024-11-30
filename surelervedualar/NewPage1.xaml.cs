@@ -1,10 +1,4 @@
-using Microsoft.Maui;
-using Microsoft.Maui.Controls;
-using Microsoft.Maui.Controls.Compatibility;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Threading.Tasks;
 using static surelervedualar.düalar;
 
 namespace surelervedualar
@@ -38,7 +32,7 @@ namespace surelervedualar
                 new Dua (  "15. Aþk ve Sevgi Ýçin Dua", "Allahümme ushrýhî fî, bihimre hemem þevveli ve hâlani.\n" ),
                 new Dua (  "16. Yatmadan Önce Okunacak Dua", "Bismillahirrahmanirrahim\nE'ûzu billahi min eþ-þeytanir racim\nBismillahi'l-lezi lâ yadurru ma'ismihi þey'un fi'l-arzi ve la fi's-semâi ve huve's-semî'u'l-‘alîm.\n" )
             };
-        
+
 
         //  // Dualarý buton olarak ekleme
         protected override void OnAppearing()
@@ -104,8 +98,8 @@ namespace surelervedualar
         }
     }
 }
-        
-    
+
+
 
 
 
