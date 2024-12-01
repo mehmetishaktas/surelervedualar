@@ -12,4 +12,11 @@ public partial class NewPage4 : ContentPage
 		i++;
 		zikir.Text =i.ToString();
 	}
+	private void sifirla(object sender, EventArgs e)
+	{
+		i = 0;
+		zikir.Text = i.ToString();
+		DisplayAlert("SIFIRLANDI","SIFIRLA","TAMAM");
+			
+	}
 }

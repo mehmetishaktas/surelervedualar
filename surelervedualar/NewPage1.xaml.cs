@@ -14,24 +14,47 @@ namespace surelervedualar
         }
         private List<Dua> dualar = new List<Dua>
         {
-
-             new Dua ("1. Fatiha Suresi", "Bismillahirrahmanirrahim\nElhamdülillahi rabbil alemin\nErrahmanirrahim\nMaliki yevmiddin\nÝyyake na'budu ve iyyake nasta'in\nÝhdinas siratal mustakim\nSiratallezine en'amte aleyhim gayril maðdubi aleyhim ve leddalin\n" ),
-                new Dua (  "2. Ayet-el Kürsi (Bakara 255)",  "Allahu la ilahe illa huve’l-hayyul-kayyum.\nLa te’huzuhu sinetün ve la nevmun.\nLehu ma fissemavati ve ma filardý.\nMen zallezî yeþfe’u indehû illa biiznih.\nYa'lemu ma beyne eydîhim ve ma halfehüm.\nVe la yühîtûne biþey'in min ilmihî illa bimeþa'.\nVasý’a kürsiyyühü's-semaavati ve'l-arz.\nVe la yeûduhû hýfzuhumâ ve huve'l-aliyyü'l-azîm.\n"),
-                new Dua (  "3. Ýhlas Suresi",  "Bismillahirrahmanirrahim\nKul huvallahu ehad\nAllahus-samed\nLem yelid ve lem yuled\nVe lem yekun lehu kufuven ehad\n" ),
-                new Dua (  "4. Nas Suresi",  "Bismillahirrahmanirrahim\nKul e'uzu bi rabbin nas\nMelikin nas\nÝlahin nas\nMin þerril vesvasil hannas\nEllezî yüvesvisü fî sudûrin nas\nMinal cinneti vennas\n" ),
-                new Dua (  "5. Felak Suresi",  "Bismillahirrahmanirrahim\nKul e'uzu bi rabbil felak\nMin þerrimâ halak\nVe min þerrin gâsikýn izâ vakab\nVe min þerrin nâffâsâti fîl-‘uqad\nVe min þerrin hâsidin izâ hasad\n" ),
-                new Dua (  "6. Sabah Duasý",  "Bismillahirrahmanirrahim\nElhamdülillahillezî ahyânâ ba'de mâ emâtânâ ve ileyhin nûþûr.\n" ),
-                new Dua (  "7. Akþam Duasý", "Bismillahirrahmanirrahim\nE'ûzu billahi min eþ-þeytanir racim\nBismillahi'l-lezi lâ yadurru ma'ismihi þey'un fi'l-arzi ve la fi's-semâi ve huve's-semî'u'l-‘alîm.\n" ),
-                new Dua (  "8. Seyahat Duasý", "Allahümme inni estaðfiruka min kulli dhambin.\nVe e'ûzu bike min kulli þerrin.\n" ),
-                new Dua (  "9. Rýzýk Ýçin Dua", "Allahümme inni es’eleke min fadlike ve rahmetike ve min güyûbi rahmetike.\n" ),
-                new Dua (  "10. Sübhânallâhî ve bihamdihî",  "Sübhânallâhî ve bihamdihî adede halkihî ve rýdâ nefsehî ve zinete arþihî ve mideyât kelimâtihî.\n" ),
-                new Dua (  "11. La ilahe illallah",  "La ilahe illallah, vahdehû lâ þerîke lehu, lehu ve levlâke rabbâ, evvelûn ve âhýrûn.\n" ),
-                new Dua (  "12. Ev Ýçin Dua",  "Bismillah ilahî, min beyt-i mukaddes ve nefs-i þerifi.\n" ),
-                new Dua (  "13. Çocuk Ýçin Dua",  "Rabbi inneee limâ enzelte ileyye min hayrin fakîr.\n" ),
-                new Dua (  "14. Vefat Duasý",  "Allahümme la tuharrisûlâ senin hidayetin.\n"),
-                new Dua (  "15. Aþk ve Sevgi Ýçin Dua", "Allahümme ushrýhî fî, bihimre hemem þevveli ve hâlani.\n" ),
-                new Dua (  "16. Yatmadan Önce Okunacak Dua", "Bismillahirrahmanirrahim\nE'ûzu billahi min eþ-þeytanir racim\nBismillahi'l-lezi lâ yadurru ma'ismihi þey'un fi'l-arzi ve la fi's-semâi ve huve's-semî'u'l-‘alîm.\n" )
-            };
+        new Dua("1. Dua", "Bismillahirrahmanirrahim - Allah'ýn adýyla, Rahman ve Rahim olan Allah'a hamdolsun, O'na dua ederim. (Fatiha Suresi)"),
+        new Dua("2. Dua", "Rabbena atina fi d-dunya haseneten ve fi'l-ahirati haseneten ve kýna azabe'n-nar - Ey Rabbimiz, bize dünyada iyilik, ahirette de iyilik ver ve bizi ateþin azabýndan koru. (Bakara 2:201)"),
+        new Dua("3. Dua", "La ilahe illallah - Allah'tan baþka ilah yoktur. (Hadis)"),
+        new Dua("4. Dua", "Subhanallahi ve bihamdihi, subhanallahil azim - Allah’ý her türlü eksiklikten tenzih ederim, Allah en büyüktür. (Hadis)"),
+        new Dua("5. Dua", "Rabbana la tuzikh kulubena ba'de iz hedeytana ve heblena min ladunka rahmatan innaka entel vehhab - Ey Rabbimiz! Bizim kalplerimizi, doðru yola ilettikten sonra saptýrma, bize katýndan bir rahmet ver. Þüphesiz ki Sen, çok baðýþlayansýn. (Aal-i Ýmran 3:8)"),
+        new Dua("6. Dua", "Rabbim, bana ve anneme rahmet et, onlarýn bana küçükken verdikleri gibi. (Ýbrahim 14:41)"),
+        new Dua("7. Dua", "Allahumme inni es’elüke el-huda ve’t-tuqa ve’l-afafe ve’l-ghina - Allah’ým, senden doðru yolu, takvayý, iffet ve zenginliði dilerim. (Sahih Muslim)"),
+        new Dua("8. Dua", "Rabbana la tu'akhizna in nasina ev akhta'na - Ey Rabbimiz, eðer unutur ya da hata edersek, bizi sorumlu tutma. (Bakara 2:286)"),
+        new Dua("9. Dua", "Rabbena gfirli ve li valideyye ve li'l-mu'minine yevme yekumul hisab - Ey Rabbimiz! Beni, annemi, babamý ve tüm müminleri hesap günü affet. (Ýbrahim 14:41)"),
+        new Dua("10. Dua", "Hasbiyallahu la ilahe illa Huwa - Allah bana yeter, O'ndan baþka ilah yoktur. (At-Tawbah 9:129)"),
+        new Dua("11. Dua", "Ýlahi, beni doðru yolda, sevgiyle yürüt ve her türlü sýkýntýyý, dertleri benden uzaklaþtýr. (Hadis)"),
+        new Dua("12. Dua", "Bismillahi-allezi la yadurru ma'asmihi þey'un fil ardi ve la fissama'i ve huve's-Sami'ul Alim - O Allah’ýn adýyla ki, O'nun adý anýldýðýnda, yeryüzünde ve gökyüzünde hiçbir þey zarar veremez. O, iþitendir, bilendir. (Hadis)"),
+        new Dua("13. Dua", "Rabbim, beni doðru yola ilet, ve senin rýzaný kazanmama yardým et. (Fatiha Suresi)"),
+        new Dua("14. Dua", "Ya Arhamarrahimin, bizleri affet, bizi doðru yola ilet ve bizleri rahmetinle kuþat. (Hadis)"),
+        new Dua("15. Dua", "Rabbena la tu'akhizna bi ma fa'alu - Ey Rabbimiz, bizim yaptýðýmýz iþler yüzünden bizi sorguya çekme. (Araf 7:155)"),
+        new Dua("16. Dua", "Ýyyaka na'budu ve iyyaka nasta'in - Sadece Sana ibadet eder ve sadece Senden yardým dileriz. (Fatiha Suresi)"),
+        new Dua("17. Dua", "Rabbim, bana ve aileme saðlýk, huzur ve bereket ver. (Hadis)"),
+        new Dua("18. Dua", "Ya Rabb, bizi zalimlerden ve zalimlerin tuzaklarýndan koru. (Hadis)"),
+        new Dua("19. Dua", "Rabbim, kalbimi iyileþtir, gözümü aç, zihinimi berraklaþtýr, ve ruhumu huzura erdir. (Hadis)"),
+        new Dua("20. Dua", "Allahumme inni es’elüke’l-Cennete ve ma yakýnu ileyha min kavlin ev amel - Allah’ým, cenneti ve ona yaklaþan her söz ve ameli senden dilerim. (Sahih Muslim)"),
+        new Dua("21. Dua", "Rabbana firlana zunubena ve kefir annâ sayyiatina ve tefafna ma'al-abrar - Ey Rabbimiz! Günahlarýmýzý baðýþla, kötü iþlerimizi affet, ve bizi salihlerle birlikte ölümden kurtar. (Aal-i Ýmran 3:193)"),
+        new Dua("22. Dua", "Rabbi þrahli sadri ve yassirli emri - Ey Rabbim, göðsümü geniþlet, iþimi kolaylaþtýr. (Taha 20:25)"),
+        new Dua("23. Dua", "Ve le allakum tashkurun - Ve umarým þükredersiniz. (Bakara 2:23)"),
+        new Dua("24. Dua", "Rabbim, iþimi kolaylaþtýr ve üzerime düþeni eksiksiz yerine getirmemi saðla. (Hadis)"),
+        new Dua("25. Dua", "Subhaneke la ilme lena illa ma allemtene - Senin kudretin ne yücedir! Bizim ancak bize öðrettiklerin kadar bilgimiz vardýr. (Bakara 2:32)"),
+        new Dua("26. Dua", "Rabbana ve la tahmil aleyna isran kama hameltahu alellezine min kablina - Ey Rabbimiz, bizlere öncekilere yüklediðin gibi yük yükleme. (Bakara 2:286)"),
+        new Dua("27. Dua", "Rabbim, bana gönlümdeki huzuru ve içsel barýþý nasip et. (Hadis)"),
+        new Dua("28. Dua", "Rabbim, bizleri iyilikle, doðrulukla ve dürüstlükle her iþte yönlendir. (Hadis)"),
+        new Dua("29. Dua", "Ya Rabbi, bizi dünya imtihanlarýnda sabýrlý kýl, ve ahirette en güzel yeri nasip et. (Hadis)"),
+        new Dua("30. Dua", "Allah’ým, beni sana yönelten doðru yollarý göster. (Hadis)"),
+        new Dua("31. Dua", "Rabbim, þüphesiz Senin rahmetin sonsuzdur, beni affet ve bana baðýþla. (Hadis)"),
+        new Dua("32. Dua", "Allahümme inni es’elüke ilmen nafi’an ve rizken tayyiban ve amelen mutakabbelen - Allah’ým, bana faydalý bilgi, helal rýzýk ve kabul edilen ameller ver. (Hadis)"),
+        new Dua("33. Dua", "Ya Rabb, bana ve tüm Müslümanlara yardým et, sabýr ve direncimizi artýr. (Hadis)"),
+        new Dua("34. Dua", "Rabbi yassir ve la tuassir, Rabbi temmim bi hayr - Ey Rabbim, iþimi kolaylaþtýr, zorlaþtýrma, ve hayýrla tamamla. (Hadis)"),
+        new Dua("35. Dua", "Rabbim, her türlü sýkýntýmda ve zorluklarýmda bana güç ver. (Hadis)"),
+        new Dua("36. Dua", "Rabbi atina mil ladunka rahmaten ve hayyir lana min emrina rafa - Ey Rabbim, katýndan bize bir rahmet ver ve iþlerimizi kolaylaþtýr. (Al-Kahf 18:10)"),
+        new Dua("37. Dua", "Allahümme la mani’a limâ a'tayt, ve la mu’atiy limâ man’te - Allah’ým, verdiklerini kimse engelleyemez, engellediklerini de kimse veremez. (Hadis)"),
+        new Dua("38. Dua", "Bismillahi ellezi la yadurru ma’asmihi þey’ün fil ardi ve la fissama’i ve huve’s-Semi’ul Alim - Allah’ýn adýyla, O’nun adý anýldýðýnda, ne yeryüzünde ne de gökyüzünde hiçbir þey zarar veremez. (Hadis)"),
+        new Dua("39. Dua", "Rabbim, bana doðruyu gösterecek ilham ver ve her türlü hayýrda bana yardýmcý ol. (Hadis)"),
+        new Dua("40. Dua", "Rabbim, beni affet, günahlarýmý baðýþla, ve bana cennetine en yakýn yeri nasip et. (Hadis)")
+         };
 
 
         //  // Dualarý buton olarak ekleme
@@ -76,7 +99,8 @@ namespace surelervedualar
                             Text = dua.Adi,
                             FontSize = 20,
                             HorizontalOptions = LayoutOptions.Fill,
-                            Margin = 20
+                            Margin = 20,
+                            BackgroundColor =Color.FromRgba("#887675"),
 
                         };
 
